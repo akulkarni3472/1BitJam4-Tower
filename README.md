@@ -1,2 +1,2 @@
-# GWJ73-Tower
-Work for https://itch.io/jam/godot-wild-jam-73
+# 1-BIT JAM #4: Tower
+Work for [1-Bit Jam #4](https://itch.io/jam/1-bit-jam-4)
